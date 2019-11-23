@@ -5,6 +5,6 @@ class TicTacToe
   end 
   
   def board
-    @board == ["","", "", "", "", "", "", "", ""]
+    @board == [" "," ", " ", " ", " ", " ", " ", " ", " "]
   end 
 end 
