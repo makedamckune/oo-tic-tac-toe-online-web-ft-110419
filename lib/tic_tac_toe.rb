@@ -26,5 +26,6 @@ end
 def move(index, current_player = "X")
   @board[index] = current_player
 end
+
   
 end 
