@@ -4,7 +4,7 @@ class TicTacToe
     @board = board 
   end 
   
-  def win_combinations
-    WIN_COMBINATIONS = win_combinations
+  def board
+    @board =  [][][][][][][][][]
   end 
 end 
